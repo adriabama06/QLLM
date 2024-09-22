@@ -1,4 +1,7 @@
 # QLLM
+
+Read [USAGE.md](./USAGE.md)
+
 <p align="center">
     <a href="https://colab.research.google.com/github/wejoncy/QLLM/blob/main/qllm_colab.ipynb">
         <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
